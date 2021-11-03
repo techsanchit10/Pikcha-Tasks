@@ -1,0 +1,13 @@
+.tax-details {
+  margin-top: 30px;
+}
+
+.category {
+  display: block;
+  margin: 14px 0;
+}
+
+.category label {
+  font-weight: bold;
+  margin-left: 10px;
+}

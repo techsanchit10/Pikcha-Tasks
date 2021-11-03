@@ -1,0 +1,23 @@
+.form-container {
+  margin: 1rem 0;
+}
+
+.input-field-group {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.input-field {
+  background-color: #eee;
+  border: none;
+  margin-top: 5px;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 1rem;
+}
+
+.has-tax-row {
+  margin-top: 20px;
+}
